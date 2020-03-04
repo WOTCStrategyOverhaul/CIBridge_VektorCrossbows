@@ -7,6 +7,7 @@
     <SteamPublishID>0</SteamPublishID>
     <AssemblyName>CIBridge_VektorCrossbows</AssemblyName>
     <RootNamespace>CIBridge_VektorCrossbows</RootNamespace>
+    <ProjectGuid>{E1A4420F-79D1-45E4-BD76-D4B7B37139CA}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Config\" />
