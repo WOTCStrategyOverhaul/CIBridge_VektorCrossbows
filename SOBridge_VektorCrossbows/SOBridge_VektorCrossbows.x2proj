@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Guid>2df77fcc-17c5-4908-a85e-b32d56eb9fe3</Guid>
-    <Name>CIBridge_VektorCrossbows</Name>
+    <Name>SOBridge_VektorCrossbows</Name>
     <Description>Description of My XCOM 2 Mod.</Description>
     <SteamPublishID>0</SteamPublishID>
-    <AssemblyName>CIBridge_VektorCrossbows</AssemblyName>
-    <RootNamespace>CIBridge_VektorCrossbows</RootNamespace>
+    <AssemblyName>SOBridge_VektorCrossbows</AssemblyName>
+    <RootNamespace>SOBridge_VektorCrossbows</RootNamespace>
     <ProjectGuid>{E1A4420F-79D1-45E4-BD76-D4B7B37139CA}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
